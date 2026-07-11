@@ -1,0 +1,21 @@
+{
+  "name": "@ai-native-solutions/qdrant-sdk",
+  "version": "1.0.0",
+  "description": "Sovereign wrapper for Qdrant · 75 endpoints from OpenAPI · MIT · AI-Native Solutions",
+  "type": "module",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "author": "AI-Native Solutions",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sjgant80-hub/qdrant-sdk.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
